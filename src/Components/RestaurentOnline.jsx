@@ -10,7 +10,7 @@ function RestaurentOnline() {
                     <button>filter<i class="fa-solid fa-gears"></i></button>
                     <button>Sort by<i class="fa-solid fa-angle-down"></i></button>
                     <button>Fast Delivery</button>
-                    <button>New On Swiggy</button>
+                    <button>New On GO-BZA</button>
                     <button>Rate 4.0+</button>
                     <button>Pure Veg</button>
                     <button>Offers</button>

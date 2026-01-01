@@ -6,7 +6,7 @@ function Footer() {
     <div className='d-flex flex-column justify-content-center align-items-center w-100'>
        <div  style={{backgroundColor:"#f1f0f4"}} className='w-100 d-flex justify-content-center align-items-center'>
             <div className='w-75 d-flex justify-content-center align-items-center pt-3 pb-3'>
-                <h3 style={{letterSpacing:"-.5px",fontWeight:900,color:"#41444a"}}>For better experience,download <br /> the Swiggy app now</h3>
+                <h3 style={{letterSpacing:"-.5px",fontWeight:900,color:"#41444a"}}>For better experience,download <br /> the GO-BZA app now</h3>
                 <img className='img-fluid' width={'180px'} style={{height:"60px",marginLeft:"90px",marginRight:"30px"}} src="https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/portal/m/play_store.png" alt="" />
                 <img width={'180px'} style={{height:"60px"}} src="https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/portal/m/app_store.png" alt="" />
             </div>
@@ -23,9 +23,9 @@ function Footer() {
                     <p>About</p>
                     <p>Careers</p>
                     <p>Team</p>
-                    <p>Swiggy One</p>
-                    <p>Swiggy Instamart</p>
-                    <p>Swiggy Genie</p>
+                    <p>GO-BZA One</p>
+                    <p>GO-BZA Instamart</p>
+                    <p>GO-BZA Genie</p>
                 </div>
                 <div style={{color:"#9e9e9e"}}>
                     <h5 style={{color:"white"}}>Contact us</h5>
